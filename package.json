@@ -1,0 +1,23 @@
+{
+  "name": "Hakuna-matata",
+  "version": "0.0.0",
+  "description": "Hakuna-matata =============",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pascalodek/Hakuna-matata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pascalodek/Hakuna-matata/issues"
+  },
+  "homepage": "https://github.com/pascalodek/Hakuna-matata",
+  "dependencies": {
+    "express": "^4.8.4"
+  }
+}
